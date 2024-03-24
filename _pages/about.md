@@ -1,25 +1,21 @@
-
- permalink: /
-title: "Resume"
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites."
 author_profile: true
 redirect_from:
-
 - /about/
 - /about.html
-
 ---
 
 Yu Siyang
-
-Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto:Siyang.Yu@rcm.ac.uk) 
-
+Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto: Siyang.Yu@rcm.ac.uk) 
 Address: Grand Felda House, Empire Way, Wembley, UK, London, HA9 0EF, Last updated: 23/03/2024
 
 # Profile
 
 I am studying at the Royal College of Music. I  am a music student who attended the Xi'an Conservatory of Music as an undergraduate and the University of Southampton as a postgraduate. My chosen major is music education. 
 
-Recently, I have been researching the adaptation of musicians, especially collaborative pianists, in different acoustic venues and applying interventions using techniques from Meyer Sound and Steinway & Son's spiro. If you are interested in this promising field, please contact and discuss it with me.
+Recently, I have been researching the adaptation of musicians, especially collaborative pianists, in different acoustic venues and applying interventions using techniques from Meyer Sound and Steinway & Son's spiro. If you are interested in this promising field, please reach out and talk about it with me.
 
 # Research Area interests
 
