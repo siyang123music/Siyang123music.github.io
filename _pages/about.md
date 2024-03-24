@@ -1,9 +1,15 @@
 
-         
+ permalink: /
+title: "Resume"
+author_profile: true
+redirect_from:
 
-# 
+- /about/
+- /about.html
 
-# Yu Siyang
+---
+
+Yu Siyang
 
 Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto:Siyang.Yu@rcm.ac.uk) 
 
@@ -23,7 +29,7 @@ Injured musicians, poor performance posture characterization and visualization p
 
 - Royal College of Music, -London, UK, Master of Performance Science, 09/2023– 08/2024
 - University of Southampton Southampton, UK, Master of Music, Music Education, 09/2021–01/2023
-- Xi’an Conservatory of Music Xi’an, China, Bachelor of Arts in Musicology, 09/2016–06/2020
+- Xi’an Conservatory of Music Xi’an, China, Bachelor of Arts in Musicology, 09/2016–06/2020        
 
 
 
