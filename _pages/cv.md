@@ -9,56 +9,126 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Yu Siyang
+
+Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto:Siyang.Yu@rcm.ac.uk) 
+
+Address: Grand Felda House, Empire Way, Wembley, UK, London, HA9 0EF, Last updated: 23/03/2024
+
+# Profile
+
+I am studying at the Royal College of Music. I  am a music student who attended the Xi'an Conservatory of Music as an undergraduate and the University of Southampton as a postgraduate. My chosen major is music education. 
+
+Recently, I have been researching the adaptation of musicians, especially collaborative pianists, in different acoustic venues and applying interventions using techniques from Meyer Sound and Steinway & Son's spiro. If you are interested in this promising field, please reach out and talk about it with me.
+
+# Research Area interests
+
+Injured musicians, poor performance posture characterization and visualization prevention, semasiological medicine, health and well-being, music psychology, music acoustics, and cognitive neuroscience
+
+# Education
+
+- **Royal College of Music, -London, UK, Master of Performance Science, 09/2023– 08/2024**
+- **Major modules:**
+
+        *Alexander Technique*
+
+        *Performance Education*
+
+        *Performance Psychology*
+
+        *Performance Arts in Health and Wellbeing*
+
+        *Performer's Health and Wellbeing*
+
+        *Performing Research I: Method*
+
+        *Performing Research II: Project and Dissertation*
+
+- **Grade:**
+
+       ****Master of Science degree in music performance science
+
+- **Graduation Research Projects**
+
+        How pianists adapt their performance to acoustic changes from the practice room to the concert hall
+
+- **University of Southampton Southampton, UK, Master of Music, Music Education, 09/2021–01/2023**
+- **Major modules:**
+
+        *Performance Teaching*
+
+        *Artists and Repertoires*
+
+        *Performance Practice and Reflection*
+
+        *Professional Writing and Presentation Skills*
+
+        *Preparation for the Final Project*
+
+- **Grade:**
+
+        Postgraduate of music education
+
+        Master of Music
+
+        MMus Education
+
+- **Graduation Research Projects**
+
+   Exploring the Potential Contribution of Strategies to Piano Teaching and Performance - Taking Alexander Technique and Taubman Piano Technique as Examples
+
+- **Xi’an Conservatory of Music Xi’an, China, Bachelor of Arts in Musicology, 09/2016–06/2020**
+
+- **Major modules:**
+
+         *History of Music Education*
+
+         *Introduction to Traditional Chinese Music*
+
+         *Vocal -Music1-4*
+
+         *Keyboard Instrument1-4*
+
+         *Harmony C1 & C2*
+
+         *History of Western Music*
+
+         *Introduction to Music Pedagogy*
+
+         *Education Policies and Regulations*
+
+         *etc*
+
+- **Grade:**
+
+        Undergraduate of musicology
+
+- **Graduation Research Project:**
+
+         Analysis of the art song "Zhaojun Goes Out of the Cypress" singing experience
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+         * Fall 2021: Piano Teacher and take lecture about health sound
+         * Bole Piano Company， China
+         *Duties include piano playing and teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+         *Summer 2019: Piano Teacher
+         *Hefei Spring Sound, China
+         *Duties include piano playing and teaching
+ 
+         *Fall 2019: Piano Teacher
+         *Aibo Piano Company, China
+         *Duties include piano playing and teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+         * Skill 1: Play the piano
+         * Skill 2: Alexander Technique
+         * Skill 3: Calligraphy 
+         * Skill 4: Photography
+  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
