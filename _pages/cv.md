@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Yu Siyang
-
-Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto:Siyang.Yu@rcm.ac.uk) 
-
+Phone: +44 7765336317 Email: [Siyang.Yu@rcm.ac.uk](mailto: Siyang.Yu@rcm.ac.uk) 
 Address: Grand Felda House, Empire Way, Wembley, UK, London, HA9 0EF, Last updated: 23/03/2024
 
 # Profile
@@ -65,7 +63,7 @@ Injured musicians, poor performance posture characterization and visualization p
 
         *Preparation for the Final Project*
 
-- **Grade:**
+- *Grade:**
 
         Postgraduate of music education
 
@@ -73,13 +71,13 @@ Injured musicians, poor performance posture characterization and visualization p
 
         MMus Education
 
-- **Graduation Research Projects**
+- *Graduation Research Projects**
 
    Exploring the Potential Contribution of Strategies to Piano Teaching and Performance - Taking Alexander Technique and Taubman Piano Technique as Examples
 
-- **Xi’an Conservatory of Music Xi’an, China, Bachelor of Arts in Musicology, 09/2016–06/2020**
+- *Xi’an Conservatory of Music Xi’an, China, Bachelor of Arts in Musicology, 09/2016–06/2020**
 
-- **Major modules:**
+- *Major modules:**
 
          *History of Music Education*
 
@@ -99,11 +97,11 @@ Injured musicians, poor performance posture characterization and visualization p
 
          *etc*
 
-- **Grade:**
+- *Grade:**
 
         Undergraduate of musicology
 
-- **Graduation Research Project:**
+- *Graduation Research Project:**
 
          Analysis of the art song "Zhaojun Goes Out of the Cypress" singing experience
 
